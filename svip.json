@@ -68,6 +68,18 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
     }, 
+	                  {        "key":"影视仓",
+         "name":"🇹┃影仓2K┃秒播",
+"type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,
+"jar":"https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"},
+	                        {
+      "key": "奇优",
+      "name": " 🇹┃奇优2K┃秒播",
+      "type": 3,
+      "playerType": "2",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/奇优.js"
+    },
     {
       "key": "csp_XYQHiker_奇趣影院",
       "name": "🇹┃奇趣2K┃秒播",
